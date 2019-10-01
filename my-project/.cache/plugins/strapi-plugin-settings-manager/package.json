@@ -1,0 +1,87 @@
+{
+  "_from": "strapi-plugin-settings-manager@3.0.0-beta.16.6",
+  "_id": "strapi-plugin-settings-manager@3.0.0-beta.16.6",
+  "_inBundle": false,
+  "_integrity": "sha1-NW6SG0xCc5rMTV8WSuyLHRvhj5o=",
+  "_location": "/strapi-plugin-settings-manager",
+  "_phantomChildren": {
+    "glob": "7.1.4",
+    "interpret": "1.2.0",
+    "rechoir": "0.6.2"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "strapi-plugin-settings-manager@3.0.0-beta.16.6",
+    "name": "strapi-plugin-settings-manager",
+    "escapedName": "strapi-plugin-settings-manager",
+    "rawSpec": "3.0.0-beta.16.6",
+    "saveSpec": null,
+    "fetchSpec": "3.0.0-beta.16.6"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/strapi-plugin-settings-manager/download/strapi-plugin-settings-manager-3.0.0-beta.16.6.tgz",
+  "_shasum": "356e921b4c42739acc4d5f164aec8b1d1be18f9a",
+  "_spec": "strapi-plugin-settings-manager@3.0.0-beta.16.6",
+  "_where": "D:\\mypro\\my-project",
+  "author": {
+    "name": "Strapi team",
+    "email": "hi@strapi.io",
+    "url": "http://strapi.io"
+  },
+  "bugs": {
+    "url": "https://github.com/strapi/strapi/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "immutable": "^3.8.2",
+    "invariant": "^2.2.1",
+    "lodash": "^4.17.11",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-helmet": "^5.2.0",
+    "react-intl": "^2.8.0",
+    "react-redux": "^7.0.2",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-transition-group": "^2.5.0",
+    "reactstrap": "^5.0.0",
+    "redux": "^4.0.1",
+    "reselect": "^3.0.1",
+    "shelljs": "^0.7.8",
+    "strapi-helper-plugin": "3.0.0-beta.16.6"
+  },
+  "deprecated": false,
+  "description": "Strapi plugin to manage settings.",
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "gitHead": "6305bee43b4405e9a8bc0084f0c7cbd15033d547",
+  "homepage": "https://github.com/strapi/strapi#readme",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "Strapi team",
+      "email": "hi@strapi.io",
+      "url": "http://strapi.io"
+    }
+  ],
+  "name": "strapi-plugin-settings-manager",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strapi/strapi.git"
+  },
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "strapi": {
+    "name": "Settings Manager",
+    "icon": "wrench",
+    "description": "settings-manager.plugin.description"
+  },
+  "version": "3.0.0-beta.16.6"
+}

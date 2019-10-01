@@ -1,0 +1,71 @@
+{
+  "_from": "strapi-plugin-upload@3.0.0-beta.16.6",
+  "_id": "strapi-plugin-upload@3.0.0-beta.16.6",
+  "_inBundle": false,
+  "_integrity": "sha1-29WbQ0I/49doFjDCPC0j0m/9FR4=",
+  "_location": "/strapi-plugin-upload",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "strapi-plugin-upload@3.0.0-beta.16.6",
+    "name": "strapi-plugin-upload",
+    "escapedName": "strapi-plugin-upload",
+    "rawSpec": "3.0.0-beta.16.6",
+    "saveSpec": null,
+    "fetchSpec": "3.0.0-beta.16.6"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/strapi-plugin-upload/download/strapi-plugin-upload-3.0.0-beta.16.6.tgz",
+  "_shasum": "dbd59b43423fe3d7681630c23c2d23d26ffd151e",
+  "_spec": "strapi-plugin-upload@3.0.0-beta.16.6",
+  "_where": "D:\\mypro\\my-project",
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "immutable": "^3.8.2",
+    "invariant": "^2.2.1",
+    "lodash": "^4.17.11",
+    "react": "^16.9.0",
+    "react-copy-to-clipboard": "^5.0.1",
+    "react-dom": "^16.9.0",
+    "react-intl": "^2.8.0",
+    "react-redux": "^7.0.2",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-transition-group": "^2.5.0",
+    "reactstrap": "^5.0.0",
+    "strapi-helper-plugin": "3.0.0-beta.16.6",
+    "strapi-provider-upload-local": "3.0.0-beta.16.6",
+    "strapi-utils": "3.0.0-beta.16.6",
+    "stream-to-array": "^2.3.0",
+    "uuid": "^3.2.1"
+  },
+  "deprecated": false,
+  "description": "This is the description of the plugin.",
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "gitHead": "6305bee43b4405e9a8bc0084f0c7cbd15033d547",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "A Strapi developer"
+    }
+  ],
+  "name": "strapi-plugin-upload",
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "strapi": {
+    "name": "Files Upload",
+    "icon": "cloud-upload",
+    "description": "Description of upload plugin."
+  },
+  "version": "3.0.0-beta.16.6"
+}
